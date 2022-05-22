@@ -1,0 +1,6 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Vivado/processor/processor.sim/sim_1/impl/func/xsim/TB_MIPS16_func_impl.v,1651750893,verilog,,,,ALU;Datamem;Datapath;MIPS16;Regfile;glbl,,,,,,,,
+C:/Vivado/processor/processor.srcs/sim_1/new/TB_DataMem.sv,1651750507,systemVerilog,,,,TB_MIPS16,,,,,,,,

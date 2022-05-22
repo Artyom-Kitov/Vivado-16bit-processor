@@ -1,0 +1,6 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+WARNING: "C:\Xilinx\Vivado\2019.1\data/verilog/src/unisims/RAMD32.v" Line 214: Timing violation in scope /TB_MIPS16/DUT/datapath/rf/rf_reg_r1_0_7_12_15/RAMB/TChk214_3403 at time 110341 ps $setuphold (posedge CLK,posedge I,(0:0:0),(0:0:0),notifier,we_clk_en_p,we_clk_en_p,CLK_delay,I_delay) 
+WARNING: "C:\Xilinx\Vivado\2019.1\data/verilog/src/unisims/RAMD32.v" Line 214: Timing violation in scope /TB_MIPS16/DUT/datapath/rf/rf_reg_r1_0_7_6_11/RAMC_D1/TChk214_3403 at time 110341 ps $setuphold (posedge CLK,posedge I,(0:0:0),(0:0:0),notifier,we_clk_en_p,we_clk_en_p,CLK_delay,I_delay) 
+WARNING: "C:\Xilinx\Vivado\2019.1\data/verilog/src/unisims/RAMD32.v" Line 214: Timing violation in scope /TB_MIPS16/DUT/datapath/rf/rf_reg_r2_0_7_12_15/RAMB/TChk214_3403 at time 110341 ps $setuphold (posedge CLK,posedge I,(0:0:0),(0:0:0),notifier,we_clk_en_p,we_clk_en_p,CLK_delay,I_delay) 
+WARNING: "C:\Xilinx\Vivado\2019.1\data/verilog/src/unisims/RAMD32.v" Line 214: Timing violation in scope /TB_MIPS16/DUT/datapath/rf/rf_reg_r2_0_7_6_11/RAMC_D1/TChk214_3403 at time 110341 ps $setuphold (posedge CLK,posedge I,(0:0:0),(0:0:0),notifier,we_clk_en_p,we_clk_en_p,CLK_delay,I_delay) 

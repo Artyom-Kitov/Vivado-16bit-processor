@@ -1,0 +1,7 @@
+Running: xsim.dir/TB_MIPS16_time_synth/xsimk.exe -simmode gui -wdb TB_MIPS16_time_synth.wdb -simrunnum 0 -socket 55437
+Design successfully loaded
+Design Loading Memory Usage: 18700 KB (Peak: 18700 KB)
+Design Loading CPU Usage: 156 ms
+Simulation completed
+Simulation Memory Usage: 89796 KB (Peak: 89796 KB)
+Simulation CPU Usage: 88608 ms

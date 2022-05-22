@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"TB_MIPS16_time_synth.v" \
+
+sv xil_defaultlib  \
+"../../../../../processor.srcs/sim_1/new/TB_DataMem.sv" \
+
+# Do not sort compile order
+nosort

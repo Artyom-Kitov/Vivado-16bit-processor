@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/processor/processor.sim/sim_1/synth/func/xsim/TB_MIPS16_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-311] analyzing module Datamem
+INFO: [VRFC 10-311] analyzing module Datapath
+INFO: [VRFC 10-311] analyzing module MIPS16
+INFO: [VRFC 10-311] analyzing module Regfile
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Vivado/processor/processor.srcs/sim_1/new/TB_DataMem.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_MIPS16

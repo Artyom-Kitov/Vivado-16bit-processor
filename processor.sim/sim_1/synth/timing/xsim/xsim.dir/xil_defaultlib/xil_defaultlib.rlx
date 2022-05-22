@@ -1,0 +1,6 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Vivado/processor/processor.sim/sim_1/synth/timing/xsim/TB_MIPS16_time_synth.v,1651751284,verilog,,,,ALU;Datamem;Datapath;MIPS16;RAM32M_HD41;RAM32M_HD42;RAM32M_HD43;RAM32M_HD44;RAM32M_HD45;RAM32M_UNIQ_BASE_;Regfile;glbl,,,,,,,,
+C:/Vivado/processor/processor.srcs/sim_1/new/TB_DataMem.sv,1651751203,systemVerilog,,,,TB_MIPS16,,,,,,,,
